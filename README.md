@@ -1,2 +1,2 @@
 # songzaby
-An exploration of an audio platform.
+A exploration of an audio promotion, production, streaming , licensing, or distribution platform.

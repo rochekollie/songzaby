@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36058ee7-af8c-40d5-92a4-838749a3e49c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archives.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-5.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-6.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-7.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/audio/demo-8.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/ads_click_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/archive_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/bookmark_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/bookmark_border_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chat_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/download_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/email_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/event_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/favorite_border_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/group_add_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/info_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/keyboard_double_arrow_right_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/schedule_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search_white_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/share_black_24dp.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/Songzaby cover.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/adeolu-eletu-DqWEAOHsAvc-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/background-313415.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bruce-mars-DBGwy7s3QY0-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/concept-4365778.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/guitar-5796016.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/microphone-2247471.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/music-3712975.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/music-594275.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/people-2606347.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/songzaby_cover_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/turntable-1109588.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/turntable-1337986.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-brand.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-official-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-official-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-project.afdesign" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo/songzaby-redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/contact-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/episode-card.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/head-links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/search-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/site-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/site-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20ezrwMru0rQpIyzBr0s01Dl3y3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -7,6 +85,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36058ee7-af8c-40d5-92a4-838749a3e49c" name="Changes" comment="" />
+      <created>1636420047503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636420047503</updated>
+      <workItem from="1636420049629" duration="1419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

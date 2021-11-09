@@ -1,0 +1,28 @@
+<div class="content-wrapper">
+		<div class="page-contents">
+			<!-- contact form here -->
+		</div>
+	</div>
+
+	<script defer>
+
+		let messengerName = document.getElementById('messenger-name');
+		let messengerEmail = document.getElementById('messenger-email');
+		let messageSubject = document.getElementById('message-subject');
+		let messageBody = document.getElementById('message-body');
+
+		messengerName.setAttribute('value', localStorage.getItem('name'));
+		messengerEmail.setAttribute('value', localStorage.getItem('email'));
+		messageSubject.setAttribute('value', localStorage.getItem('subject'));
+		messageBody.innerHTML = localStorage.getItem('message');
+
+		//change the h1 element to 'Edit Message'
+		document.getElementsByTagName('h1')[0].innerHTML = 'Edit Message';
+
+		//change the p element text
+		document.getElementsByTagName('p')[0].innerHTML = 'Please make the desired changes and resubmit the form.';
+
+		//change the submit text to resubmit
+		document.getElementById('submit-msg-btn').innerHTML = 'Resubmit';
+
+	</script>

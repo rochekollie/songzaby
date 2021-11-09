@@ -1,0 +1,27 @@
+
+<script>
+		localStorage.setItem('name', '');
+		localStorage.setItem('email', '');
+		localStorage.setItem('subject', '');
+		localStorage.setItem('message', '');
+</script>
+
+	<div class="content-wrapper">
+		<div class="page-contents">
+			<h1>Thank you, <span id="messenger-name">MESSENGER_NAME</span>.</h1>
+			<p>Your message with the subject "<b><span id="message-subject"></span></b>" has been
+			   received. We will get back to you at the email address
+				<span class="link"
+				      id="message-email"></span> as soon as possible. If you would like to make some
+			   changes, you may <a class="link"
+			                       href="edit.html">edit</a> your message or email address to update
+			   your changes.</p>
+		</div>
+	</div>
+
+<script defer>
+	let formInfo = document.getElementsByTagName('p')[0];
+	let span = document.createElement('span');
+	formInfo.append(span);
+	span.innerHTML = ` `;
+</script>
