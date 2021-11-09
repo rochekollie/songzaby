@@ -93,4 +93,23 @@ window.onload = function () {
       }
     }
   });
+
+
+  // Save the user's form data to local storage.
+	let form = document.getElementById("form");
+	form.addEventListener("submit", function (e) {
+		e.preventDefault();
+		let formData = new FormData(this);
+		let data = {};
+		for (let [key, value] of formData.entries()) {
+			data[key] = value;
+		}
+		localStorage.setItem("formData", JSON.stringify(data));
+		console.log(data);
+	}
+	);
+
+
+	
+
 };

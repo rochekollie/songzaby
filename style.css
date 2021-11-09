@@ -113,8 +113,7 @@ main {
     position: relative;
     width: 100%;
     background-color: var(--white);
-    margin: 0;
-    margin: 100px auto;
+    margin: 100px auto 0 auto;
     padding: 0;
     /* border: solid 2px red; */
 }
@@ -203,7 +202,7 @@ nav ul {
     padding-left: 0;
 }
 
-.search-container {
+#search-container {
     display: none;
 }
 
@@ -764,7 +763,7 @@ button:hover, .btn:hover {
         display: none;
     }
 
-    .search-container {
+    #search-container {
         display: flex;
         align-items: center;
         width: 100ch;
