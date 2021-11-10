@@ -120,7 +120,8 @@ main {
 
 .page-contents {
     position: relative;
-    max-width: 1200px;
+    /* max-width: 1200px; */
+	width: min(100%, 1000px);
     padding: 0 1rem 5rem 1rem;
     /*padding-bottom: 5rem;*/
     margin: 0 auto;
@@ -752,13 +753,11 @@ button:hover, .btn:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* align-items: center; */
-    /*margin: 3em 0;*/
-    /*padding: 5em 0;*/
-    width: 100%;
+	width: min(100%, 800px);
     height: 100%;
     /*overflow: hidden;*/
     margin: 0 auto;
+	text-align: center;
 }
 
 #contact-form input, #contact-form textarea {
