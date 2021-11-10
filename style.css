@@ -121,7 +121,7 @@ main {
 .page-contents {
     position: relative;
     /* max-width: 1200px; */
-	width: min(100%, 1200px);
+	max-width: min(100%, 1200px);
     padding: 0 1rem 5rem 1rem;
     /*padding-bottom: 5rem;*/
     margin: 0 auto;
