@@ -45,27 +45,27 @@ window.onload = function () {
     });
 
 
-    //form
-    let contactForm = document.getElementById("contact-form");
-    contactForm.addEventListener("submit", function (e) {
-        e.preventDefault();
-        let name = document.getElementById("messenger-name").value;
-        let email = document.getElementById("messenger-email").value;
-        let subject = document.getElementById("message-subject").value;
-        let message = document.getElementById("message-body").value;
+    // //form
+    // let contactForm = document.getElementById("contact-form");
+    // contactForm.addEventListener("submit", function (e) {
+    //     e.preventDefault();
+    //     let name = document.getElementById("messenger-name").value;
+    //     let email = document.getElementById("messenger-email").value;
+    //     let subject = document.getElementById("message-subject").value;
+    //     let message = document.getElementById("message-body").value;
 
-        // set the form data to local storage
-        localStorage.setItem("name", name);
-        localStorage.setItem("email", email);
-        localStorage.setItem("subject", subject);
-        localStorage.setItem("message", message);
+    //     // set the form data to local storage
+    //     localStorage.setItem("name", name);
+    //     localStorage.setItem("email", email);
+    //     localStorage.setItem("subject", subject);
+    //     localStorage.setItem("message", message);
 
-        //Log the form data to the console.
-        console.log(name);
-        console.log(email);
-        console.log(subject);
-        console.log(message);
-    });
+    //     //Log the form data to the console.
+    //     console.log(name);
+    //     console.log(email);
+    //     console.log(subject);
+    //     console.log(message);
+    // });
 
 
 
